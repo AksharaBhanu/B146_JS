@@ -1,0 +1,95 @@
+coding language--> instruction to the computer 
+Low level language , High Level language
+binary--> 0101010    English like (java JS python)
+
+translator --> convert from HLL to LLL
+interpretation--> line by line translation
+compilation --> complete code gets translated at a time 
+
+programming 			scripting 
+dev app				testing/ admin
+compiled 			interpreted
+java c c++ python 		JS TS VBS shell
+
+
+1995 Netscape --> Browser --> Web page --> html static page --> 
+
+language for a browser --> Mocha --> Live Script --> Sun micro system-Java 1991 --> Java script --> free and opensource --> stand
+
+1996- Microsoft --> Jscript  
+
+where we can use javascript(1995-2008) --> inside the browser (html)
+open the browser
+enter the url
+right click --> inspect (F12)--> console --> write the code and press enter
+
+2009 --> node js--> to run js without the browser (out side the browser)
+
+https://nodejs.org/en/download
+
+download setup file from above url (msi file)
+double click it and follow the instruction till the finish
+open cmd prompt --> node -v -> v24.4.0
+
+my 1st js code 
+
+1. open any text editor (notepad)
+2. write a javascript code --> console.log('Hi')
+3. save it in req location with the name demo1.js
+4. open the command prompt and run the below cmd
+	node e:/demo1.js
+
+Dev---->
+1. write code
+2. execute code
+3. debugging
+4. review
+5. unit testing 
+6. SCM- version....
+
+IDE --> integrated Development environment --> single platform for all dev activities
+
+VS code is very popular for javascript
+
+https://code.visualstudio.com/download
+
+download and install it
+
+1. create a folder 'project' in the req location
+2. open the VS code
+3. file--> open folder--> browser and select above created project folder
+4. select check box and click yes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
