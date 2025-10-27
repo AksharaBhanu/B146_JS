@@ -1,0 +1,62 @@
+1. node.js
+2. VS code
+3. run code extension
+
+keyword--> predefined words in javascript 
+https://www.w3schools.com/js/js_reserved.asp
+
+to store data/information we use variable
+variable is a container / memory space which is used to store the data
+3 steps
+1. declaration
+2. initialization
+3. utilization
+
+a variable can hold only one value at a time
+
+name specified by the user is called as identifier
+we specify the name for variable function class method ......
+
+rules for specifying identifier 
+1. No keyword
+2. contains only ---> a-zA-Z0-9 _ $ (space and other special char are not allwed
+3. it should not start with digit
+4. it is case sensitive
+5. no max limit
+
+we can declare and initialize multiple var in same statement
+
+to create read only variable we can use const keyword
+
+Data type:type of information stored in a variable
+
+ 2 types of data types
+
+1. primitive data type
+	number string undefined 
+	
+2. non-primitive data type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
