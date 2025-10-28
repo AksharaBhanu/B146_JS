@@ -1,0 +1,60 @@
+in js to declare a variable we use let
+we cant declare same variable more than once
+a variable can hold any type of data in JS
+
+Data type--> type of data/information stored in a variable
+we have 2 types 
+primitive -->
+	 
+	number 
+	string 
+	boolean
+	
+	undefined
+	bigint 
+
+non-primitive
+	object
+		1. array 
+		2. object (JSON object)
+		3. Set
+
+		4. Map 
+		5. null
+
+NaN---> Not A Number
+
+code optimization
+		
+1. there must be a common var between 2 statements
+2. for that CV there must be = in 1st statement
+3. then we can replace CV in Statement2 with RHS from statement 1
+4. delete satement1
+
+operation --> perform some tasks example: addition 
+operator--> symbol used to perform the operation example:--> +
+operand --> input required to perform operation example:  a + b   ==> a & b are called as operands
+
+based on the functionality we have diff types
+arithmetic operators
++ - / * % **
+
+operator precedence 
+
+B--> ()
+O--> **
+DM--> / * %
+AS--> + -
+
+BODMAS rules
+
+
+
+
+
+
+
+
+
+
+
