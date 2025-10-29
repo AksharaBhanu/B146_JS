@@ -1,0 +1,65 @@
+1. arithmetic Operators
++ - / * % **
+
+input: number output: number
+() BODMAS
+**
+/*%
++-
+-----------------------------------------
+2. assignment operator (input: number output: number)
+
+=
++=
+-=
+/=
+*=
+%=
+**=
+
+3. update operator (post & pre)--> input: number output: number
+	increment ++
+	decrement --
+
+
+4. comparison operator input: number output: Boolean
+equal to ---> ==
+not equal to-->  !=
+greater than >
+less than <
+
+greater than or equal to   >=
+less than or equal to <=
+
+
+strict equal to --> ===
+
+in javascript
+
+0----> false
+1---> true
+null and undefined will be treated as same if we use ==
+9=='9' --> same
+9==='9' --> diff
+another name --> relational operators
+---------------------------------------------------------------------------------
+
+logical operator
+AND---> &&
+OR---> ||
+NOT--> !
+
+input: Boolean output : Boolean
+a	b	&&	||
+T	T	T	
+T	F	F
+F	T	F
+F	F	F
+
+
+a  NOT
+T	F
+F	T
+
+
+
