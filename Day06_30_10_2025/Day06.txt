@@ -1,0 +1,58 @@
+1. arithmetic---> + - * / % **
+2. assignment --> = += -= *= /= %= **=     a+=b ---> a=a+b
+3. update --> ++ --
+4. comparison--> == === != > < >= <=
+5. logical--> && || !
+
+6. ternary operator a?b:c;
+7. bitwise --> << >> >>> & | ^
+
+8. others:
+	1) typeof
+	2) instanceof
+	3) => arrow function (lambda) 
+	4) ... spread operator 
+	5) ?? nullish Coalescing
+	6) ?. optional chaining
+---------------------------------------
+execute or skip or repeat we use control statement
+1. condition
+2. loop
+3. jumping statement (CTS)
+
+condition--> execute or skip the code 
+
+if condition
+
+syntax:
+if(condition)
+{
+	if-body
+} 
+
+
+Note: 
+if the condition is true, it will execute 'if-body'
+if the condition is false, it will not  execute 'if-body' (it will skip it)
+
+
+if else
+if(condition)
+{
+	if-body
+} 
+else
+{
+	else-body
+}
+ 
+if the condition is true, it will execute 'if-body' 
+if the condition is false , it will execute 'else-body'
+
+
+
+
+
+
+
+
